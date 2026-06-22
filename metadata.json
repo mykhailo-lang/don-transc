@@ -1,0 +1,6 @@
+{
+  "name": "Транскрибатор",
+  "description": "Нативний Android-додаток українською мовою для запису та транскрибації розмов менеджера з клієнтами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
